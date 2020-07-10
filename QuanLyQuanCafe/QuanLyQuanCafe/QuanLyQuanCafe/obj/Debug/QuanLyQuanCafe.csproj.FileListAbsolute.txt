@@ -1,0 +1,51 @@
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+D:\HK19\CNTT\z2\HK1\Phát triển ứng dụng Windows\Do-an\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\LeTha\OneDrive\Desktop\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTableManager.resources
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\LeTha\OneDrive\Desktop\STUDY 2020\PTUD WINDOW\BAOCAO_PTUDWD\W\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\LeTha\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\LeTha\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\LeTha\OneDrive\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
